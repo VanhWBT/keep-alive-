@@ -1,0 +1,19 @@
+Flask
+flask-cors
+<<<<<<< HEAD
+tensorflow
+Pillow
+gunicorn
+numpy
+streamlit
+requests
+Pillow
+
+=======
+gunicorn
+tensorflow
+Pillow
+numpy
+>>>>>>> 26db44c3 (Initial commit (clean history with gitignore))
+
+
